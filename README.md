@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Elena
 
-<!--
-**Groenten/Groenten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎧 Full Stack Developer · Creative Technologist · Composer · Cellista
 
-Here are some ideas to get you started:
+Combino **desarrollo web**, **interactividad**, **sonido** y **herramientas audiovisuales** para crear experiencias digitales y artísticas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologías
+- HTML · CSS · JavaScript  
+- React · Node  
+- Python  
+- Java  
+- Git · GitHub  
+
+## 🎨 Interactividad y sonido
+- Max/MSP  
+- SuperCollider  
+- Herramientas de IA (Runway, modelos generativos)
+- Proyectos audiovisuales interactivos
+- 
+## 🌐 Portfolio
+[www.elenagarciaverduras.com](https://www.elenagarciaverduras.com)
+
+
