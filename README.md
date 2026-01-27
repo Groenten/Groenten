@@ -1,4 +1,4 @@
-# 👋 Hola, soy Elena García  
+# 👋 Hola, soy Elena, Groenten para los amigos.  
 ### Tecnóloga creativa · Desarrolladora · Sonido e interacción
 
 ---
