@@ -5,7 +5,7 @@
 
 ## Sobre mí
 
-Soy **tecnóloga creativa y desarrolladora**, con una sólida formación en **composición musical, sonido y creación audiovisual**, y actualmente en formación técnica en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y **Full Stack**.
+Soy **compositora, chelista**, y actualmente en formación técnica en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y **Full Stack**.
 
 Mi trabajo se sitúa en el cruce entre **tecnología, creatividad e interacción**. Me interesa especialmente desarrollar **sistemas interactivos**, **experiencias con inteligencia artificial**, aplicaciones web y proyectos donde el sonido, la imagen y la interacción del usuario forman parte activa del diseño.
 
